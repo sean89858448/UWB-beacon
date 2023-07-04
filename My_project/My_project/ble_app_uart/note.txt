@@ -1,0 +1,1 @@
+可正常輪播、修改  UUID、 Tag_ID： Major、 流水號    Minor

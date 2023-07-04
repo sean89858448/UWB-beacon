@@ -1,0 +1,1 @@
+beacon輪播及saadc測量電量
